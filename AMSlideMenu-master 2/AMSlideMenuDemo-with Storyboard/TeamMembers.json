@@ -1,0 +1,14 @@
+{
+    "team" : [
+              {
+              "name":"Jacky Zou",
+              "title": "Student",
+              "location": "Junior",
+              "about": "Photo Club has a meeting this week",
+              "image":"ray.png",
+              "web": "http://www.raywenderlich.com",
+              "twitter": "https://twitter.com/rwenderlich",
+              "facebook": "https://www.facebook.com/raywenderlich"
+              }
+                ]
+}
