@@ -118,6 +118,7 @@
 		756D31DD18B2A069008E846B /* AMSlideMenuRightMenuSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 756D31D418B2A069008E846B /* AMSlideMenuRightMenuSegue.m */; };
 		756D31DE18B2A069008E846B /* AMSlideMenuRightTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 756D31D618B2A069008E846B /* AMSlideMenuRightTableViewController.m */; };
 		756D31DF18B2A069008E846B /* UIViewController+AMSlideMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 756D31D818B2A069008E846B /* UIViewController+AMSlideMenu.m */; };
+		CEADDDC11B0B8BF800A03838 /* Schedule Algorithm.m in Sources */ = {isa = PBXBuildFile; fileRef = CEADDDC01B0B8BF800A03838 /* Schedule Algorithm.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -297,6 +298,8 @@
 		756D31D618B2A069008E846B /* AMSlideMenuRightTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AMSlideMenuRightTableViewController.m; sourceTree = "<group>"; };
 		756D31D718B2A069008E846B /* UIViewController+AMSlideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+AMSlideMenu.h"; sourceTree = "<group>"; };
 		756D31D818B2A069008E846B /* UIViewController+AMSlideMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+AMSlideMenu.m"; sourceTree = "<group>"; };
+		CEADDDBF1B0B8BF800A03838 /* Schedule Algorithm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Schedule Algorithm.h"; sourceTree = "<group>"; };
+		CEADDDC01B0B8BF800A03838 /* Schedule Algorithm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Schedule Algorithm.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -340,6 +343,8 @@
 		3E9C29851869CAD700E7F5E5 = {
 			isa = PBXGroup;
 			children = (
+				CEADDDBF1B0B8BF800A03838 /* Schedule Algorithm.h */,
+				CEADDDC01B0B8BF800A03838 /* Schedule Algorithm.m */,
 				4DC9F5751B027B1900909FA7 /* SOLViewController.h */,
 				4DC9F5761B027B1900909FA7 /* SOLViewController.m */,
 				4DF2EEF51AF073CF0050DF99 /* CourseScheduleSection */,
@@ -795,6 +800,7 @@
 				4DE1190A1A81546200626815 /* SportsCalendarView.m in Sources */,
 				3E9C29E61869CE8200E7F5E5 /* RightMenuVC.m in Sources */,
 				756D31DE18B2A069008E846B /* AMSlideMenuRightTableViewController.m in Sources */,
+				CEADDDC11B0B8BF800A03838 /* Schedule Algorithm.m in Sources */,
 				756D31DC18B2A069008E846B /* AMSlideMenuMainViewController.m in Sources */,
 				4DF037261AA504BF0033B3AD /* SignUpViewController.m in Sources */,
 				3E9C299E1869CAD700E7F5E5 /* main.m in Sources */,
